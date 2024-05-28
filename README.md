@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @marycodes92
-- 👀 I’m interested in Software Development and Quality Assurance
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate in Projects on JavaScript and Node.js 
+- 👀 I’m interested in Sofware Quality Assurance
 - 📫 How to reach me on onuorahmary@gmail.com
 
 <!---
